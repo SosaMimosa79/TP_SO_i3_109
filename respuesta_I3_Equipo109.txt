@@ -1,0 +1,4 @@
+BETA:
+A_ Queda con todo el contenido de ambas ramas creadas
+B_ Si
+C_ Tuve que moverme a la rama main con "checkout main" y hacer "git merge sosa"
