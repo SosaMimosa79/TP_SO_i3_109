@@ -2,3 +2,22 @@ BETA:
 A_ Queda con todo el contenido de ambas ramas creadas
 B_ Si
 C_ Tuve que moverme a la rama main con "checkout main" y hacer "git merge sosa"
+
+GAMMA
+D- las ramas al momento de crearse quedan con los datos de main(con los datos que tengas) 
+pero los demas no lo pueden ver hasta que hagas un pull de la rama;luego del merge no se actualizan los datos.
+
+E- no tuvimos ningun problema con el merge. nos situamos en la main y usamos merge con el nombre de la rama a unificar; tengo entendido que puede existir 
+problemas a la hora de fusionar los cambios, y se tendria que fusionar manualmente al editar los archivos.
+
+
+F- desde la rama main un  git pull
+luego : git checkout sosa
+echo "Facundo Pico" >> beta.txt
+ipconfig >> beta.txt
+date >> beta.txt
+git add beta.txt
+git commit -m ""
+git push origin sosa.
+
+ALFA
