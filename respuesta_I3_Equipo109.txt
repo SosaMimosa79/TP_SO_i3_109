@@ -21,3 +21,10 @@ git commit -m ""
 git push origin sosa.
 
 ALFA
+Inicio haciendo un git checkout main y luego git pull
+echo "Nombre : Robin" >> beta.txt
+ipconfig >> beta.txt
+date >> beta.txt
+git add beta.txt
+git commit -m ""
+git push origin sosa
