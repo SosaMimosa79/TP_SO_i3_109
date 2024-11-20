@@ -1,3 +1,7 @@
 Facundo Pico
 Wed Nov 20 08:49:03
 Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+
+Robin Choqueticlla
+Direccion IP: 192.168.0.20
+hora : 09:03
